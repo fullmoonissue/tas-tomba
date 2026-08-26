@@ -16,25 +16,16 @@ My inspirations for this Treasure Collector TAS came from :
 
 - [RTA Any% runs](https://www.speedrun.com/fr-FR/tomba1)
 - [TAS Any% run](https://www.youtube.com/watch?v=nc3nrPPxaFM)
-- Many other various videos
+- Other various videos
 
 ## Chests
 
-To see all the chests' locations, it's [here](./chests/locations.md).
+To see all the chests' locations, images and timecodes, it's [here](./chests/locations.md).
 
 ## Routing
 
-The routing is pretty straightforward :
-
-- Get the 100 years old key
-- Get the 1.000 years old key
-- Get the 10.000 years old key
-- Get the million years old key
-- Open all the remaining chests
-
-While going to the old keys, some chests will be opened to avoid going back to them afterward.
-
-Two pigs and five events have to be done to have the possibility to finish this category.
+Beyond getting the four old keys, two pigs and five events have to be defeated / done to have the possibility to finish
+this category.
 
 ### Pigs
 
@@ -84,8 +75,8 @@ When acquiring any Pig Bag, there are two animations where Tomba is frozen in pl
 - The {} pig bag (Clear!)
 - {Location}
 
-To skip them, first a charity wing (or a bell, I guess) is needed and is able to be used where Tomba is, then use it on
-the last frame before the menu can't be opened anymore.
+To skip them, first a charity wing (or a bell, I guess) is needed and has to be able to be used where Tomba is,
+then use it on the last frame before the menu can't be opened anymore.
 
 If the menu is opened before this frame, it's still possible to cancel the menu and to reopen it just after to try to
 get the skip.
