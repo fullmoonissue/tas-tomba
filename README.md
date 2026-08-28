@@ -2,7 +2,7 @@
 
 ## Publication
 
-[![](https://github.com/fullmoonissue/tas-tomba/blob/master/Thumbnail-Tomba-Treasure-Collector-v1.png)](https://www.youtube.com/watch?v=kJsmPe_-otw)
+[![](./Thumbnail-Tomba-Treasure-Collector-v1.png)](https://www.youtube.com/watch?v=kJsmPe_-otw)
 
 ## About
 
@@ -49,7 +49,21 @@ The ailment Taboo is obtained when completing the "Red + Blue = ?" event, and it
 
 In this situation, Tomba : 
 - is running faster
-- is constantly running (like the square button is always pushed (except in isometric views))
+- is constantly running (as if the square button was always pushed (except in isometric views))
+
+Note : Tomba won't be anymore able to open a chest with a high jump and be above the item (to grab it in the air),
+he will always be "under" the item.
+
+To give an idea of his speed within this ailment, here are the results of Tomba running from the right of the screen
+to the left (until pressing up to change the camera to go to Mushroom Forest) in the south side of the Haunted Mansion :
+
+- With Taboo (whatever the Pants, same time) : 200 frames
+- Without Taboo + Flash Pants : 215
+- Without Taboo + Dashing Pants : 239
+- Without Taboo + Jumping Pants : 263
+
+And so, I have the feeling that the sooner Tomba is in Taboo ailment, the greater the time saved
+(just by running / jumping) over time will increase. It could be confirmed with another TAS without Taboo ailment.
 
 ## Skips
 
@@ -75,8 +89,10 @@ When acquiring any Pig Bag, there are two animations where Tomba is frozen in pl
 - The {} pig bag (Clear!)
 - {Location}
 
-To skip them, first a charity wing (or a bell, I guess) is needed and has to be able to be used where Tomba is,
-then use it on the last frame before the menu can't be opened anymore.
+To skip them, first a charity wing (or a bell) is needed and has to be able to be used where Tomba is.
+
+Open a chest with the dash (square button) pushed to touch the ground before the pig bag, then use the charity wing on
+the last frame before the menu can't be opened anymore.
 
 If the menu is opened before this frame, it's still possible to cancel the menu and to reopen it just after to try to
 get the skip.
