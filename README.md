@@ -49,10 +49,13 @@ The ailment Taboo is obtained when completing the "Red + Blue = ?" event, and it
 
 In this situation, Tomba : 
 - is running faster
-- is constantly running (as if the square button was always pushed (except in isometric views))
+- is constantly running (as if the square button was always pushed (except in zenithal views))
 
-Note : Tomba won't be anymore able to open a chest with a high jump and be above the item (to grab it in the air),
+Note 1 : Tomba won't be anymore able to open a chest with a high jump and be above the item (to grab it in the air),
 he will always be "under" the item.
+
+Note 2 : When landing on an egg from a platform above, Tomba won't auto-grab it, an other jump has to be made to grab
+it.
 
 To give an idea of his speed within this ailment, here are the results of Tomba running from the right of the screen
 to the left (until pressing up to change the camera to go to Mushroom Forest) in the south side of the Haunted Mansion :
@@ -72,7 +75,7 @@ And so, I have the feeling that the sooner Tomba is in Taboo ailment, the greate
 - Dwarf save animation skips : Tomba has to be "out of sight" of some dwarfs when saved (at 6:36, 7:25, 7:28 and 7:43)
 - Bird Skip : no need to throw this specific bird (at 18:09)
 - Jungle Damage Boost : Tomba is ejected to the cage and not in the spikes (at 27:59)
-- In isometric views, if Tomba is running against a diagonal wall with an angle of +/- 45°, he can sometimes run faster
+- In zenithal views, if Tomba is running against a diagonal wall with an angle of +/- 45°, he can sometimes run faster
 
 ### Sign Skip
 

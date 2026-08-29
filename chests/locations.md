@@ -41,7 +41,7 @@ The chests will be described in the order of the aforementioned guide, then foll
 
 - Location : Forest of All Beginnings  
 - Type : 100
-- Contents : Vitality Max +1
+- Contents : Max Vitality +1
 - Timecode : 41:48
 
 ![](./03.png)
@@ -68,7 +68,7 @@ The chests will be described in the order of the aforementioned guide, then foll
 
 - Location : Mansion                   
 - Type : 100
-- Contents : Animal Dash (or 20,000 Gem if already have it)
+- Contents : Animal Dash (or 20,000 AP Gem if already have it)
 - Timecode : 41:24
 
 ![](./06.png)
@@ -86,7 +86,7 @@ The chests will be described in the order of the aforementioned guide, then foll
 
 - Location : Mansion
 - Type : 10,000
-- Contents : 100,000 Gem x2
+- Contents : 100,000 AP Gem x2
 - Timecode : 41:21
 
 ![](./08.png)
@@ -122,7 +122,7 @@ The chests will be described in the order of the aforementioned guide, then foll
 
 - Location : Forest of 100 Flowers
 - Type : 1,000
-- Contents : Vitality Max +1
+- Contents : Max Vitality +1
 - Timecode : 44:05
 
 ![](./12.png)
@@ -356,7 +356,7 @@ The chests will be described in the order of the aforementioned guide, then foll
 
 - Location : Phoenix Mountain
 - Type : Million
-- Contents : Vitality Max +1
+- Contents : Max Vitality +1
 - Timecode : 45:25
 
 ![](./38.png)
@@ -383,7 +383,7 @@ The chests will be described in the order of the aforementioned guide, then foll
 
 - Location : Lava Caves        
 - Type : 100
-- Contents : Vitality Max +1
+- Contents : Max Vitality +1
 - Timecode : 46:05
 
 ![](./41.png)
@@ -518,7 +518,7 @@ The chests will be described in the order of the aforementioned guide, then foll
 
 - Location : Haunted Mansion
 - Type : 1,000
-- Contents : Vitality Max +1
+- Contents : Max Vitality +1
 - Timecode : 48:43
 
 ![](./56.png)
@@ -563,7 +563,7 @@ The chests will be described in the order of the aforementioned guide, then foll
 
 - Location : Masakari Jungle
 - Type : 1,000
-- Contents : Vitality Max +1
+- Contents : Max Vitality +1
 - Timecode : 32:14
 
 ![](./61.png)
@@ -644,7 +644,7 @@ The chests will be described in the order of the aforementioned guide, then foll
 
 - Location : Trick Village
 - Type : 10,000
-- Contents : Vitality Max +1
+- Contents : Max Vitality +1
 - Timecode : 37:16
 
 ![](./70.png)
