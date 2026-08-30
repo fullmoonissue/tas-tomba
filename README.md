@@ -108,7 +108,7 @@ This is possible thanks to a glitch with a Charity Wing in the Underground Maze.
 
 Talk with the NPC that triggers The Blue Fortune Teller event, then talk a second time, but,
 just before any speech bubble is displayed, open the menu, use the Charity Wing and mash the discussion to
-cut the flying animation of Tomba to clip through the wall from the top to the million years old man room (at 38:03).
+cut the flying animation of Tomba to clip through the wall from the top to the million-year-old man room (at 38:03).
 
-Note : A Charity Wing, Baron or a Bell has to be used after the talk with the million years old man because the two
+Note : A Charity Wing, Baron or a Bell has to be used after the talk with the million-year-old man because the two
 doors leading to him will be locked and Tomba will be stuck / softlocked.
