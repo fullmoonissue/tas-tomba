@@ -214,17 +214,17 @@ As far as I know, this glitch was originally discovered / mentioned by MisterSte
 
 To summarize it, after the Dialog Skip (mentioned above), keep mashing the texts while staying close to the sign.
 
-Then, when the NPC on the right will go down the stairs while opening the text dialog, the control of Tomba can be
-taken back and so the trick is to keep the save dialog until Tomba is leaving the area (to the Mushroom Forest).
+Then, when the NPC on the right will go down the stairs while opening the sign text, the control of Tomba can be
+taken back and so the trick is to keep this text sign (allowing to save) until Tomba is leaving the area (to the
+Mushroom Forest).
 
-Somewhere like halfway between Phoenix Mountain and Mushroom Forest, do a save (mandatory) and everything is well done,
-after closing the save window, Tomba will be relocated to Baccus Village.
+While walking towards the Mushroom Forest, a (mandatory) save has to be done nearly halfway through, and if everything
+has been well done, after closing the save window, Tomba will be relocated to the Baccus Village.
 
-It mainly skips the first ride on the Phoenix and the tiny backtracking inside the Lava Caves to get the Charity Wing
+It mainly skips the first ride on the Phoenix and the backtracking inside the Lava Caves to get the Charity Wing
 respawn location.
 
-In fine, I can't say for sure if it's faster to do it than the normal path as there's quite some time between two
-comparison spots. To do it, an other TAS (or at least this portion) has to be done. I find it nice to be able to show
-it inside a TAS.
+In fine, I can't say for sure if it's faster to do it than the normal path as there's quite some time to compare. To do
+it, an other TAS (or at least this portion) has to be done. I find it nice to be able to show it inside a TAS.
 
 Done in Max Vitality TAS, started at 15:18, finished at 15:44.
